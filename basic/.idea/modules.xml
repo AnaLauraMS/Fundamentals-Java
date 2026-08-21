@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvinhaNumeros/AdvinhaNumeros.iml" filepath="$PROJECT_DIR$/AdvinhaNumeros/AdvinhaNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConversaoGraus/ConversaoGraus.iml" filepath="$PROJECT_DIR$/ConversaoGraus/ConversaoGraus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaBanco/SistemaBanco.iml" filepath="$PROJECT_DIR$/SistemaBanco/SistemaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos.iml" filepath="$PROJECT_DIR$/java-fundamentos.iml" />
+    </modules>
+  </component>
+</project>

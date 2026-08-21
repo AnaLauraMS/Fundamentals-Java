@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/programmingOrientedObject.iml" filepath="$PROJECT_DIR$/.idea/programmingOrientedObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semPOO/semPOO.iml" filepath="$PROJECT_DIR$/semPOO/semPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stockSystem/stockSystem.iml" filepath="$PROJECT_DIR$/stockSystem/stockSystem.iml" />
+    </modules>
+  </component>
+</project>

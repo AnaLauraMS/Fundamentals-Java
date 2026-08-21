@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic/AdvinhaNumeros/AdvinhaNumeros.iml" filepath="$PROJECT_DIR$/basic/AdvinhaNumeros/AdvinhaNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/CalculadoraImc/CalculadoraImc.iml" filepath="$PROJECT_DIR$/basic/CalculadoraImc/CalculadoraImc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/ConversaoGraus/ConversaoGraus.iml" filepath="$PROJECT_DIR$/basic/ConversaoGraus/ConversaoGraus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmingOrientedObject/OOP/OOP.iml" filepath="$PROJECT_DIR$/programmingOrientedObject/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/SistemaBanco/SistemaBanco.iml" filepath="$PROJECT_DIR$/basic/SistemaBanco/SistemaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmingOrientedObject/semPOO/semPOO.iml" filepath="$PROJECT_DIR$/programmingOrientedObject/semPOO/semPOO.iml" />
+    </modules>
+  </component>
+</project>
