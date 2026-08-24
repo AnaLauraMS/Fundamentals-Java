@@ -18,7 +18,16 @@ public static void main(String[] args) {
         System.out.println("Quantity in stock: ");
         product.quantity = sc.nextInt();
 
-        System.out.println(product.name);
+        System.out.println("Product data: " + product);
+        System.out.println("Enter the number of products to be added in stock: ");
+        int quantity = sc.nextInt();
+        // atualização da quantidade de produtos adicionados dentro do objeto products
+        product.addProducts(quantity);
+        System.out.println("Updated data: " + product);
+        System.out.println("Enter the number of products to be removed from stock: ");
+        quantity = sc.nextInt();
+        product.removeProducts(quantity);
+        System.out.println("Updated data: " + product);
         sc.close();
     }
 }
